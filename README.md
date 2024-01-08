@@ -2,7 +2,7 @@
 
  Sou carioca e Estudante de Tecnologia.
 
-Estou me formando como Desenvolvedora de Software Full Stack, acumulando experiência com front-end (HTML, CSS, React), Back-end (node.js / Javascript) e Banco de Dados (Mysql), Git e Github.
+Estou me formando como Desenvolvedora de Software Full Stack, acumulando experiência com front-end (HTML, CSS, React), Back-end (node.js / Javascript) e Banco de Dados , Git e Github.
 
 Também estou me formando em Gerenciamento de Projetos e acumulando experiência com infraestruturar de TI, Ms-Project, Trello, Power - Bi, LGPD – ISSO 27001, Qualidade de Projetos, Metodologia ágil (Scrum, Kanban) , Analista de risco, padrões e o guia  PMBOK®.
 
