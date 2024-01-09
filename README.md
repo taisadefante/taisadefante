@@ -31,6 +31,14 @@ Também estou me formando em Gerenciamento de Projetos e acumulando experiência
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisadefante)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/taisadefante))
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width=397 align="center" src="https://github-readme-stats.vercel.app/api?username=taisadefante&show_icons=true&card_width=50&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisadefante&layout=compact&card_width=50&theme=tokyonight" />
+</a>
+</div>
 
 # A capacidade de recomeçar tudo, quantas vezes forem necessárias, faz dos fracos, fortes. - (Desconhecido)
