@@ -1,10 +1,29 @@
-# Olá, mundo! Meu nome é Tais Defante 👋
+## Meu nome é Tais Defante 👋
 
  Sou carioca e Estudante de Tecnologia.
 
-Estou me formando como Desenvolvedora de Software Full Stack, acumulando experiência com front-end (HTML, CSS, React), Back-end (node.js / Javascript) e Banco de Dados , Git e Github.
+Busco aplicar meu conhecimento e habilidades para construir produtos e serviços de qualidade que ajudem as pessoas a melhorarem suas vidas. Liderando equipes
+em projetos desafiadores, criando soluções eficientes e inovadoras com base na ética,
+colaboração e boas práticas.
 
-Também estou me formando em Gerenciamento de Projetos e acumulando experiência com infraestruturar de TI, Ms-Project, Trello, Power - Bi, LGPD – ISSO 27001, Qualidade de Projetos, Metodologia ágil (Scrum, Kanban) , Analista de risco, padrões e o guia  PMBOK®.
+## Minhas Habilidades:
+
+- Arquitetura e Design de Software: projetando e desenvolvendo arquiteturas de software robustas e escaláveis, guiado pelos
+princípios de padrões de projeto, princípios SOLID e boas práticas de codificação.
+
+- Desenvolvimento Front-End: React, JavaScript, Typescript e
+Bootstrap.
+
+- Desenvolvimento Back-End: Node.Js
+  
+- Bancos de Dados: MySQL, PostgreSQL.
+  
+- DevOps: Familiaridade com práticas de DevOps e ferramentas relacionadas, como Git, (GitHub, etc.).
+
+- Práticas Ágeis: Experiência em metodologias ágeis, como Scrum ou Kanban, e participação em equipes ágeis, com habilidades de
+colaboração, comunicação e adaptabilidade.
+
+
 
 ## Para me Encontrar:
 <p align="left">
