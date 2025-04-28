@@ -1,63 +1,64 @@
-## Meu nome é Tais Defante 👋
 
- Sou carioca e Estudante de Tecnologia.
+Seja bem-vindo(a) ao meu perfil!
 
-Busco aplicar meu conhecimento e habilidades para construir produtos e serviços de qualidade que ajudem as pessoas a melhorarem suas vidas. Liderando equipes
-em projetos desafiadores, criando soluções eficientes e inovadoras com base na ética,
-colaboração e boas práticas.
+Sou Tais Defante, carioca, apaixonada por tecnologia e inovação.
+Tenho formação em Administração de Empresas e Gestão da Tecnologia da Informação, além de especialização em Gestão de Projetos, Finanças, Auditoria e Controladoria.
 
-## Minhas Habilidades:
+Atualmente, estou em transição de carreira para a área de Tecnologia, atuando como Desenvolvedora de Software Júnior.
+Meu objetivo é utilizar minhas habilidades técnicas e de gestão para construir soluções de qualidade que impactem positivamente a vida das pessoas.
 
-- Arquitetura e Design de Software: projetando e desenvolvendo arquiteturas de software robustas e escaláveis, guiado pelos
-princípios de padrões de projeto, princípios SOLID e boas práticas de codificação.
+🚀 Sobre Mim
 
-- Desenvolvimento Front-End: React, JavaScript, Typescript e
-Bootstrap.
+🎯 Foco em entregar soluções práticas, eficientes e escaláveis.
 
-- Desenvolvimento Back-End: Node.Js
-  
-- Bancos de Dados: MySQL, PostgreSQL.
-  
-- DevOps: Familiaridade com práticas de DevOps e ferramentas relacionadas, como Git, (GitHub, etc.).
+👥 Trabalho em equipe, colaboração e comunicação clara.
 
-- Práticas Ágeis: Experiência em metodologias ágeis, como Scrum ou Kanban, e participação em equipes ágeis, com habilidades de
-colaboração, comunicação e adaptabilidade.
+🔍 Curiosa e apaixonada por aprender novas tecnologias e metodologias.
+
+💡 Motivada a enfrentar desafios e buscar melhorias contínuas.
+
+💻 Tecnologias e Ferramentas
+Front-End:
+
+React, Next.js, Vite
+
+JavaScript, TypeScript, HTML5, CSS3
+
+Bootstrap
+
+Back-End:
+
+Node.js, Express.js
+
+Banco de Dados:
+
+MySQL, PostgreSQL, SQL
+
+Controle de Versão:
+
+Git, GitHub
+
+Outros:
+
+Power BI (Análise de Dados)
+
+WordPress (CMS)
+
+Metodologias:
+
+Scrum, Kanban (Metodologias Ágeis)
+
+🎯 Objetivo Profissional
+Busco oportunidades que me desafiem a crescer profissionalmente e a contribuir para projetos inovadores e impactantes.
+Tenho paixão por tecnologia, resolução de problemas e melhoria contínua. Estou pronta para somar ao seu time!
+
+✨ Minhas Inspirações
+"Vencer só depende de você."
+"Nunca é tarde para recomeçar."
+
+📫 Contato
 
 
+Obrigada por visitar meu perfil!
+Vamos nos conectar e transformar ideias em realidade! 🚀
 
-## Para me Encontrar:
-<p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ta%C3%ADs-defante-54533165/)
-
-
-## Hards Skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![Powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-
-
-
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=397 align="center" src="https://github-readme-stats.vercel.app/api?username=taisadefante&show_icons=true&card_width=50&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisadefante&layout=compact&card_width=50&theme=tokyonight" />
-</a>
-</div>
-
-# A capacidade de recomeçar tudo, quantas vezes forem necessárias, faz dos fracos, fortes. - (Desconhecido)
